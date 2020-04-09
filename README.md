@@ -2,5 +2,6 @@
 
 ## Bootstrap 4 training
 
-Slight modification wit additional css.--
+Slight modification with additional css.--
+
 jQuery for smooth scrolling
